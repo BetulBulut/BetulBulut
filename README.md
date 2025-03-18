@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Betül Bulut</h1>
 <h3 align="center">full-stack developer</h3>
 
-- 🌱 I’m currently learning **Angular**
-
+- 🌱 I am currently progressing through Papara **.Net** bootcamp.
 - 📫 How to reach me **bulut.betulbb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
