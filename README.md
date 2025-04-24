@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Betül Bulut</h1>
 <h3 align="center">backend developer</h3>
 
-- 🌱I am currently progressing through **Papara .Net bootcamp. **
+- 🌱I am currently progressing through **Papara .Net bootcamp.**
 
 - 📫 How to reach me **bulut.betulbb@gmail.com**
 
